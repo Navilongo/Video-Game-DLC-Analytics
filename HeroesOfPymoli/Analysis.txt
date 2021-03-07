@@ -1,0 +1,11 @@
+Analysis of Heroes of Pymoli
+
+Reviewing the information gathered from the data visualization, we can still see three important
+points that were mined from the data, who are the top spenders, their ages and what is the top item purchased. 
+By gathering all the information we can see that Males between 15-29
+are the most active consumers of downloadable content within video games. Just in this range we can see that 77% 
+of the total purchases happened in this range, the 20-24 year olds being the largest consumers at 365 purchases 
+likely because of their amount of free time and disposable income. Among the purchases, among the top 5, we can
+see weapons as being the most purchased led by blades, greatswords, a razor of black magic and a crying steel sickle. 
+If we wanted to create more items for Heroes of Pymoli, I would recommend more weapons geared toward post-adolescent
+males, as these would be higher likely to sell. 
